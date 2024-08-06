@@ -35,4 +35,4 @@ Go to the project directory
 
 ## Getting Started
 
-Run the file "Contractor Calculator.xcodeproj" on XCode and start the iOS simulator device.
+Run the file "Contractor Calculator.xcodeproj" on XCode and start any of the iOS simulator device.
